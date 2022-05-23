@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @fahimahmed0x. I'm a student from the University of Waterloo currently interning as a Quantitative and Technology Services Developer at RBC Capital Markets.
+- 👋 Hi, I’m @fahimahmed0x. I'm a student from the University of Waterloo.
+- 💼 I'm currently interning as a Quantitative and Technology Services Developer at RBC Capital Markets this summer.
 - 👀 I’m interested in data science, blockchain, and finance. Did I mention I'm looking to get into open-source development?
 - 🌱 I’m currently learning on-chain analytics. Data on the blockchain is super valuable.
 - 💞️ I’m looking to collaborate on any project and try new things, especially if it's data, blockchain, or open-source related.
