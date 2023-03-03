@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fahimahmedx. I'm a CS & Finance student from the **University of Waterloo**.
-- 💼 President of UW Blockchain Club, and incoming **Axelar** blockchain developer intern.
+- 💼 President of UW Blockchain Club, and an **Axelar** blockchain developer intern.
 - 👀 I’m interested in data science, blockchain, and finance.
-- 🌱 I’m currently learning **MEV** and **on-chain analytics**. Data on the blockchain is super valuable.
+- 🌱 I’m currently learning **on-chain analytics**. Data on the blockchain is super valuable.
 - 💞️ I’m looking to collaborate on any project and try new things, especially if it's data, blockchain, or open-source related.
 - 📫 How to reach me: https://www.linkedin.com/in/fahim-a/
 
