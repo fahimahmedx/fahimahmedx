@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fahimahmedx. I'm a Computer Science student at the **University of Waterloo**.
+- 👋 Hi, I’m @fahimahmedx. I'm studying Computer Science at the **University of Waterloo**.
 - 💼 President of Waterloo Blockchain Club of over 1000+ members, and a Software Engineer at **Axelar** .
 - 👀 I’m interested in data science, blockchain, and finance.
 - 🌱 I’m currently learning **on-chain analytics**. Data on the blockchain is super valuable.
