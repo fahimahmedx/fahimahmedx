@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fahimahmedx. I'm studying Computer Science at the **University of Waterloo** and I'm interning at **Amazon** this summer.
+- 👋 Hi, I’m @fahimahmedx. I'm studying Computer Science at the **University of Waterloo** and I'm interning at **Amazon**.
 - 💼 President of Waterloo Blockchain Club of over 1000+ members, previously a Software Engineer Intern at **Base**, **Flashbots**, and **Axelar**, and a **Paradigm** Fellow.
 - 👀 I’m interested in blockchain protocol engineering, high-frequency trading, and finance.
 - 🌱 I’m currently learning **onchain analytics**. Data on the blockchain is super valuable.
