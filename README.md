@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @fahimahmedx. I'm studying Computer Science at the **University of Waterloo** and I'm interning at **Flashbots**.
-- 💼 President of Waterloo Blockchain Club of over 1000+ members, previously a Software Engineer Intern at **Base**, **Amazon**, and **Axelar**, and a **Paradigm** Fellow.
-- 👀 I’m interested in blockchain protocol engineering, high-frequency trading, and finance.
-- 🌱 I’m currently learning **onchain analytics**. Data on the blockchain is super valuable.
-- 💞️ I’m looking to collaborate on any project and try new things, especially if it's high-frequency trading or Rust related.
+- 👋 Hi, I’m @fahimahmedx. I'm studying Computer Science at the **University of Waterloo**.
+- 💼 Previously I was a Software Engineer Intern at **Amazon**, **Coinbase**, **Flashbots**, and **Axelar**, and a **Paradigm** Fellow.
+- 👀 Currently, I'm learning about engineering problems in the LLM space.
+- 🌱 Previously I've worked on distributed systems, blockchain protocol engineering, and blockchain data analytics dashboards. I also started Waterloo's Blockchain Club and scaled it to $120k in revenue & 1500 members.
 - 📫 How to reach me: https://www.linkedin.com/in/fahim-a/
 
 <!---
